@@ -1,0 +1,21 @@
+2023/04/30-05:09:35.427 2708 Reusing MANIFEST E:\projects\messageSender\message\tokens\my-session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/30-05:09:35.428 2708 Recovering log #915
+2023/04/30-05:09:35.436 2708 Reusing old log E:\projects\messageSender\message\tokens\my-session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000915.log 
+2023/04/30-05:09:35.437 2708 Delete type=2 #914
+2023/04/30-05:09:35.544 2b98 Manual compaction at level-0 from '\x00A\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00B\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/04/30-05:09:35.544 2b98 Manual compaction at level-1 from '\x00A\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00B\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/04/30-05:09:35.613 14c8 Level-0 table #920: started
+2023/04/30-05:09:35.652 14c8 Level-0 table #920: 41028 bytes OK
+2023/04/30-05:09:35.708 14c8 Delete type=0 #915
+2023/04/30-05:09:35.709 14c8 Manual compaction at level-0 from '\x00@\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00A\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/04/30-05:09:35.709 14c8 Manual compaction at level-1 from '\x00@\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00A\x00\x00\x00' @ 0 : 0; will stop at '\x00A.\x02\x01\x0e\x00W\x00A\x00A\x00D\x00V\x00S\x00e\x00c\x00r\x00e\x00t\x00K\x00e\x00y' @ 4138939 : 0
+2023/04/30-05:09:35.709 14c8 Compacting 1@1 + 1@2 files
+2023/04/30-05:09:35.765 14c8 Generated table #921@1: 389 keys, 23956 bytes
+2023/04/30-05:09:35.765 14c8 Compacted 1@1 + 1@2 files => 23956 bytes
+2023/04/30-05:09:35.795 14c8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/30-05:09:35.796 14c8 Delete type=2 #920
+2023/04/30-05:09:35.796 2b98 Manual compaction at level-1 from '\x00A.\x02\x01\x0e\x00W\x00A\x00A\x00D\x00V\x00S\x00e\x00c\x00r\x00e\x00t\x00K\x00e\x00y' @ 4138939 : 0 .. '\x00A\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/04/30-05:09:35.799 2b98 Manual compaction at level-0 from '\x00?\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00@\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/04/30-05:09:35.800 2b98 Manual compaction at level-1 from '\x00?\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00@\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/04/30-05:09:35.803 2b98 Manual compaction at level-0 from '\x00>\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00?\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/04/30-05:09:35.803 2b98 Manual compaction at level-1 from '\x00>\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00?\x00\x00\x00' @ 0 : 0; will stop at (end)

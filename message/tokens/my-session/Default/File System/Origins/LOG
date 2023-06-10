@@ -1,0 +1,4 @@
+2023/04/30-05:42:26.831 29b4 Log #3: 3 ops saved to Table #4 OK
+2023/04/30-05:42:27.841 29b4 Archiving E:\projects\messageSender\message\tokens\my-session\Default\File System\Origins/000003.log: IO error: E:\projects\messageSender\message\tokens\my-session\Default\File System\Origins/000003.log: Could not rename file: File currently in use. (ChromeMethodBFE: 14::RenameFile::2)
+2023/04/30-05:42:27.841 29b4 Table #4: 3 entries OK
+2023/04/30-05:42:28.857 29b4 Archiving E:\projects\messageSender\message\tokens\my-session\Default\File System\Origins/MANIFEST-000001: IO error: E:\projects\messageSender\message\tokens\my-session\Default\File System\Origins/MANIFEST-000001: Could not rename file: File currently in use. (ChromeMethodBFE: 14::RenameFile::2)
